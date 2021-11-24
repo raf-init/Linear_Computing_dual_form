@@ -1,4 +1,4 @@
-# LinearComputing_dual_form
+# Linear_Computing_dual_form
 This algorithm was created to convert a linear program of this form:
 
 min(max) c^Τx
